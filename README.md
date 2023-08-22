@@ -7,3 +7,12 @@ I'm Thomas, a BPM Consultant at [Miragon](https://www.miragon.io) a company whic
 - 💬 **Ask me about** anything process automation related. (Mircoservice Orchestration & other Software Architecture topics) 
 - 📫 How to **reach me**: Eithe via [Twitter](https://twitter.com/hafflgav) or via [mail](mailto:thomas@heinrichs.services)
 - 🎥 Occasionally streaming on [twitch](https://twitter.com/hafflgav), make sure to step by. 
+
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Hafflgav&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hafflgav&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=Hafflgav&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ammergeddon&icon=0&color=0)](https://visitcount.itsvg.in)
